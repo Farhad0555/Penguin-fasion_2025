@@ -1,0 +1,26 @@
+.img_logo{
+    width:292px;
+    height: 40px;
+}
+.header_background{
+    background: #FFFBF0;
+}
+.PenguinsWinter_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn_buy{
+    background: #90AB2A;
+    color: white;
+}
+/* -------------PenguinsWinter css end ------------- */
+
+.price_color{
+    color: #FABE4C;
+}
+.perfect_logo_img{
+    width:78px;
+    height: 82px;
+}
